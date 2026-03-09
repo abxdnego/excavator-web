@@ -6,8 +6,6 @@ A WebGL runtime for viewing an optimized excavator game mesh derived from a STEP
 
 This is a mesh visualization tool showcasing the conversion pipeline from professional CAD (STEP format) to an optimized game-ready mesh. The excavator model has been processed for polygon optimization to run efficiently on the WebGL platform.
 
-**View the original CAD model**: [Autodesk Viewer](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE3Njk1MjYzNDFfNjMzMmYyM2UtMGQ1Zi00NzkyLTk3YmItMDlkYzgwM2M0YmUxLnN0ZXA?sheetId=NDc1M2MwMjYtNDQ2NC00MjIwLTkzZGMtMDk4YzcwZTI3ZjUx)
-
 **View the finalized game asset model**: [Unity Web Viewer](https://abxdnego.github.io/excavator-web/)
 
 ## Technical Achievement
